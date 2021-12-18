@@ -69,7 +69,7 @@ func handleSig(srv *http.Server, gCtx context.Context) {
     } else {
         log.Println("app gracefully  shut down")
     }
-    gCtx.Done()
+    gCtx.Done() // 主服务结束，其他的 goroutine 也结束
 }
 
 func hello(w http.ResponseWriter, req *http.Request) {
