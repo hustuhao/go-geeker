@@ -34,3 +34,7 @@
 ## week-05
 
 第五周作业：[传送门](week-05/rolling_num.go)
+
+## week-08
+
+第八周卓业：[传送门](week-08/redis-benchmark.md)
