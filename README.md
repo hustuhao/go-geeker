@@ -37,4 +37,8 @@
 
 ## week-08
 
-第八周卓业：[传送门](week-08/redis-benchmark.md)
+第八周作业：[传送门](week-08/redis-benchmark.md)
+
+## week-09
+
+第九周作业：[传送门](week-09/solution.md)
